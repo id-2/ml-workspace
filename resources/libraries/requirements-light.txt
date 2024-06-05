@@ -30,7 +30,7 @@ tensorboardX==2.3 # TensorBoardX lets you watch Tensors Flow without Tensorflow
 pandas-profiling==2.13.0 # Generate profile report for pandas DataFrame
 
 ## Others
-pymongo==3.11.4 # Mongo Client
+pymongo==4.6.3 # Mongo Client
 fire==0.4.0 # A library for automatically generating command line interfaces.
 patsy==0.5.1 # A Python package for describing statistical models and for building design matrices.
 boto3==1.17.101 # The AWS SDK for Python
